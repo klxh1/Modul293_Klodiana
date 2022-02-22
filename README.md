@@ -3,7 +3,6 @@
 Mein Ziel ist es, HTML und CSS gut zu beherrschen und eine Webseite online zu stellen.
 
 # Projekt
-[Beschreibung](\Beschreibung)
 
 ## Beschreibung
 
